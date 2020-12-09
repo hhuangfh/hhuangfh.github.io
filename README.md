@@ -5,7 +5,7 @@ I'm a PhD student at SCU University, broadly interested in machine learning and 
 
 Latest Articles
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](data/change_5.png)
 ```
 
-For more details see [GitHub Flavored Markdown]test/test.md).
+For more details see [GitHub Flavored Markdown](test/test.md)).
